@@ -8,7 +8,7 @@ This template contains code and pipeline definition for a machine learning proje
 
 ## Getting Started:
 
-
+[https://ml-devops-tutorial.readthedocs.io/en/latest/endtoend.html](https://ml-devops-tutorial.readthedocs.io/en/latest/endtoend.html)
 
 ## Architecture Diagram
 
